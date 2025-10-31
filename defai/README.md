@@ -1,11 +1,11 @@
-# 🧠 DataFlow Agents: DeFi AI Agent Marketplace
+# 🧠 DEFAI: DeFi AI Agent Marketplace
 
 This document outlines the development journey of **DataFlow Agents**, a decentralized marketplace for AI-driven DeFi automation.
 
 ---
 
 ## 🏷️ Project Title
-**DataFlow Agents: DeFi AI Agent Marketplace**
+**DEFAI: DeFi AI Agent Marketplace**
 
 ---
 
