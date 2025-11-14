@@ -110,7 +110,7 @@ _(to be updated)_
 
 ## 🧩 Final Wrap-Up
 
-- **Main Repository:** [Frontend](https://github.com/Quiproof/app)
+- **Main Repository:** [Frontend](https://github.com/padimaster/quiproof)
 - **Validation Repository:** [Backend + Circuits + Contracts](https://github.com/padimaster/quiproof-validation)
 - **Slides / Presentation:** ARG25 final deck (in progress)
 
