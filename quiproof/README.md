@@ -42,7 +42,7 @@ It allows:
 ## Tech Stack
 
 - **Core Cryptography:** ZK-SNARKs (Groth16)
-- **Smart Contracts:** Solidity + Foundry
+- **Smart Contracts:** Arbitrum Stylus (Arbitrum Mainnet)
 - **Identity Standards:** ICAO 9303 eMRTD + W3C Verifiable Credentials
 - **Mobile Wallet:** React Native + Kotlin (NFC Integration)
 - **ZK Circuits:** SP1 (Succinct Parallel Prover)
@@ -110,7 +110,8 @@ _(to be updated)_
 
 ## 🧩 Final Wrap-Up
 
-- **Main Repository:** [Available here](https://github.com/Quiproof/app)
+- **Main Repository:** [Frontend](https://github.com/Quiproof/app)
+- **Validation Repository:** [Backend + Circuits + Contracts](https://github.com/padimaster/quiproof-validation)
 - **Slides / Presentation:** ARG25 final deck (in progress)
 
 ---
