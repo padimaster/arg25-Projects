@@ -112,7 +112,7 @@ _(to be updated)_
 
 - **Main Repository:** [Frontend](https://github.com/padimaster/quiproof)
 - **Validation Repository:** [Backend + Circuits + Contracts](https://github.com/padimaster/quiproof-validation)
-- **Slides / Presentation:** ARG25 final deck (in progress)
+- **Slides / Presentation:** [ARG25 final deck](https://www.canva.com/design/DAG4C6AXlQY/hRE9Ei2A4rmBOiZ_CA06CQ/edit?utm_content=DAG4C6AXlQY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
